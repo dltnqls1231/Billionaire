@@ -1,3 +1,3 @@
 # Billionaire
 
-First Strategy : +2% / -1%
+First Strategy : +2% / -0.9%
